@@ -70,6 +70,7 @@ function Map() {
         <circle cx="637.6" cy="506" id="1"></circle>
         <circle cx="636" cy="498.9" id="2"></circle>
       </svg>
+
     </div>
   );
 }

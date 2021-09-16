@@ -1,11 +1,11 @@
-#tashkent  {
+#Tashkent  {
     fill:teal;
 }
-#UZTA220:hover{
+#UZTA220:hover {
     fill:red;
 }
 
-#UZTA224:hover{
+#UZBU207:hover{
     fill: rgb(114, 99, 72);
 }
 
@@ -53,3 +53,146 @@
 #UZTA239:hover{
     fill: gray;
 }
+
+/*--------------------------------------------*/
+#Bukhoro  {
+    fill:red;
+}
+
+
+ #UZBU207:hover{
+    fill: rgb(114, 99, 72);
+}
+
+ #UZBU204:hover{
+    fill: rgb(95, 85, 28);
+}
+ #UZBU215:hover{
+    fill: brown;
+}
+ #UZBU246:hover{
+    fill: teal;
+}
+ #UZBU219:hover{
+    fill: yellow;
+}
+ #UZBU230:hover{
+    fill: seagreen;
+}
+ #UZBU232:hover{
+    fill: lightpink;
+}
+ #UZBU242:hover{
+    fill: seagreen;
+}
+ #UZBU243:hover{
+    fill: gray;
+}
+ #UZBU244:hover{
+    fill: violet;
+}
+ #UZBU240:hover{
+    fill: firebrick;
+}
+ #UZBU258:hover{
+    fill: darkviolet;
+}
+ #UZBU212:hover{
+    fill: indianred;
+}
+
+/*-------------------------------------------------*/
+
+#Khorezm{
+    fill:gray;
+}
+
+ #UZKH236:hover{
+    fill: yellow;
+}
+ #UZKH233:hover{
+    fill: rgb(172, 172, 0);
+}
+ #UZKH217:hover{
+    fill: rgb(108, 235, 163);
+}
+ #UZKH230:hover{
+    fill: lightpink;
+}
+ #UZKH212:hover{
+    fill: seagreen;
+}
+ #UZKH226:hover{
+    fill: rgb(155, 145, 56);
+}
+ #UZKH220:hover{
+    fill: violet;
+}
+ #UZKH223:hover{
+    fill: firebrick;
+}
+ #UZKH208:hover{
+    fill: darkviolet;
+}
+ #UZKH204:hover{
+    fill: indianred;
+}
+
+/*--------------------------------------------*/
+
+#Karakalpakstan{
+    fill:rgb(70, 70, 4);
+}
+
+
+#UZQR204:hover{
+    fill: yellow;
+}
+ #UZQR207:hover{
+    fill: rgb(172, 172, 0);
+}
+ #UZQR240:hover{
+    fill: rgb(108, 235, 163);
+}
+ #UZQR241:hover{
+    fill: lightpink;
+}
+ #UZQR250:hover{
+    fill: seagreen;
+}
+ #UZQR212:hover{
+    fill: rgb(155, 145, 56);
+}
+ #UZQR222:hover{
+    fill: violet;
+}
+ #UZQR401:hover{
+    fill: firebrick;
+}
+ #UZQ218:hover{
+    fill: darkviolet;
+}
+ #UZQR215:hover{
+    fill: rgb(177, 18, 18);
+}
+ #UZQR215:hover{
+    fill: rgb(92, 182, 205);
+}
+ #UZQR211:hover{
+    fill: rgb(205, 92, 158);
+}
+ #UZQR243:hover{
+    fill: rgb(117, 6, 6);
+}
+ #UZQR233:hover{
+    fill: rgb(68, 151, 13);
+}
+ #UZQR230:hover{
+    fill: rgb(205, 179, 92);
+}
+ #UZQR236:hover{
+    fill: rgb(61, 190, 49);
+}
+
+
+

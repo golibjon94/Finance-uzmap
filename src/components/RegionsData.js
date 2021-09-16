@@ -40,18 +40,20 @@ setdata({
          <br/>
       </div>
 }
-
-      <svg
-        id="tashkent"
+{filteredDatas.map(itemm=>(
+  <svg
+        id={itemm.name}
         baseprofile="tiny"
-        height="1150"
+        width="1800"
+        height="1000"
         stroke="#ffffff"
         stroke-linecap="round"
         stroke-linejoin="round"
         stroke-width="2"
         version="1.2"
         viewbox="0 0 1000 652"
-        width="1800"
+        border="1px"
+       
       >
         <svg>
           {categories?.map((item) => (
@@ -64,6 +66,8 @@ setdata({
         <circle cx="637.6" cy="506" id="1"></circle>
         <circle cx="636" cy="498.9" id="2"></circle>
       </svg>
+))}
+      
     </div>
   );
 }
