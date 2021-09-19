@@ -1,0 +1,17 @@
+.App{
+    display: grid;
+    grid-template-columns: 85px auto;
+
+}
+.sidebar{
+    background-color: blue;
+}
+.main{  display: grid;
+    grid-template-rows: 85px auto;
+    background-color: rgb(235, 221, 221);
+}
+.dashboard{
+    padding-left: 20px;
+    display: flex;
+    background-color: white;
+}

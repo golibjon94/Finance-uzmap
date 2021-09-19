@@ -1,11 +1,12 @@
+
 #Tashkent  {
-    fill:teal;
+    fill:rgb(9, 82, 82);
 }
 #UZTA220:hover {
     fill:red;
 }
 
-#UZBU207:hover{
+#UZTA224:hover{
     fill: rgb(114, 99, 72);
 }
 
@@ -194,5 +195,92 @@
     fill: rgb(61, 190, 49);
 }
 
+/*---------------------------------------------------*/
 
 
+
+#Navoi{
+    fill:rgb(19, 156, 99);  
+    align-items: center;
+}
+
+
+#UZNW111:hover{
+    fill: rgb(18, 221, 106);
+}
+ #UZNW112:hover{
+    fill: rgb(12, 33, 148);
+}
+ #UZNW234:hover{
+    fill: rgb(12, 93, 47);
+}
+ #UZNW216:hover{
+    fill: rgb(131, 118, 7);
+}
+ #UZNW251:hover{
+    fill: rgb(161, 16, 161);
+}
+ #UZNW238:hover{
+    fill: rgb(151, 31, 31);
+}
+ #UZQ218:hover{
+    fill: rgb(83, 20, 110);
+}
+ #UZNW244:hover{
+    fill: rgb(240, 57, 57);
+}
+ #UZNW248:hover{
+    fill: rgb(41, 182, 218);
+}
+ #UZNW9:hover{
+    fill: rgb(179, 13, 109);
+}
+ 
+/* -------------------------------------------------------------*/
+
+#Kashkadarya{
+    fill: rgb(231, 149, 176);
+}
+
+
+#UZQA242:hover{
+    fill: rgb(14, 158, 76);
+}
+ #UZQA212:hover{
+    fill: rgb(8, 23, 107);
+}
+ #UZQA207:hover{
+    fill: rgb(12, 93, 47);
+}
+ #UZQA220:hover{
+    fill: rgb(100, 92, 19);
+}
+ #UZQA224:hover{
+    fill: rgb(119, 35, 119);
+}
+ #UZQA229:hover{
+    fill: rgb(206, 32, 32);
+}
+ #UZQA237:hover{
+    fill: rgb(77, 22, 100);
+}
+ #UZQA232:hover{
+    fill: rgb(160, 31, 31);
+}
+ #UZQA233:hover{
+    fill: rgb(17, 105, 128);
+}
+ #UZQA234:hover{
+    fill: rgb(241, 197, 255);
+}
+ #UZQA235:hover{
+    fill: rgb(71, 66, 80);
+}
+ #UZQA245:hover{
+    fill: rgb(12, 94, 161);
+}
+ #UZQA250:hover{
+    fill: rgb(154, 228, 16);
+}
+
+/*---------------------------------------------------------------*/

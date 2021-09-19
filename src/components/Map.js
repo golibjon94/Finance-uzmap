@@ -3,6 +3,7 @@ import "./map.css";
 import Popup from "./popup";
 import { uzbDatas } from "../uzbDatas";
 import { useHistory } from "react-router-dom";
+import { useSelector } from 'react-redux';
 
 
 function Map() {
@@ -10,6 +11,8 @@ function Map() {
   const [id, setId] = useState(null);
   const [name, setName] = useState(null);
   const history = useHistory();
+  const allInfos = useSelector(state => state.regionsSlice.allInfos)
+  console.log(allInfos)
   const togglePopup = (id, name) => {
     setId(id);
     setName(name);
@@ -35,6 +38,8 @@ function Map() {
                 <br />
                 name:{name}
               </p>
+            
+
             </>
           }
           handleClose={togglePopup}
@@ -54,7 +59,9 @@ function Map() {
         onMouseOut={() => setIsOpen(false)}
       >
         {uzbDatas.map((item) => (
+           <g>
           <svg
+
             onDoubleClick={(id) => {
               doubleClick(item.id);
             }}
@@ -62,13 +69,16 @@ function Map() {
               togglePopup(item.id, item.name);
             }}
           >
+           
             <path name={item.name} id={item.id} d={item.d} />
           </svg>
+          </g>
         ))}
-
+        <g>
         <circle cx="673.4" cy="626" id="0"></circle>
         <circle cx="637.6" cy="506" id="1"></circle>
         <circle cx="636" cy="498.9" id="2"></circle>
+      </g>
       </svg>
 
     </div>

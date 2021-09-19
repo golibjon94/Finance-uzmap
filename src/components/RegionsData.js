@@ -2,50 +2,37 @@ import React, { useState, useEffect } from "react";
 import "./regionsData.css";
 import { allDatas } from "../allDatas";
 import { useParams } from "react-router-dom";
+import axios from "axios";
+import {useDispatch} from "react-redux";
+import {addRegionsInfos} from "../redux/regionsSlice"
 
 function RegionsData() {
-  const [idd, setIdd] = useState(null);
-  const [data, setdata] = useState({})
-  const [showDatas, setShowDatas] = useState(false)
+
   const [categories, setcategories] = useState([]);
   const { id } = useParams();
   const filteredDatas = allDatas.filter((item) => item.id === id);
-
+ const dispatch = useDispatch()
   useEffect(() => {
     filteredDatas.map((item) => setcategories(item.infos));
   }, []);
+
+
 const getDatas=(id)=>{
-   setShowDatas(!showDatas)
-setdata({
-   shaharNomi:"Bo'stonliq",
-   id,
-   aholisi:1000,
-   kambagallar:"juda kop",
-   boylar:"juda kam"
-})
+    // alert(id);
+
+    axios.get("https://jsonplaceholder.typicode.com/users")
+    .then(res=>dispatch(addRegionsInfos(res.data)))
+    .catch(err=>console.log(err.message))
 }
   return (
     <div>
-      {showDatas &&
-      <div>
-         Shahar nomi:{data.shaharNomi},
-         <br/>
-         Id:{data.id},
-         <br/>
-         Shahar aholisi:{data.aholisi},
-         <br/>
-         Kambagallar soni:{data.kambagallar},
-         <br/>
-         Boylar soni:{data.boylar},
-         <br/>
-      </div>
-}
-{filteredDatas.map(itemm=>(
+   
+ {filteredDatas.map(itemm=>(
   <svg
         id={itemm.name}
         baseprofile="tiny"
-        width="1800"
-        height="1000"
+        width="530"
+        height="600"
         stroke="#ffffff"
         stroke-linecap="round"
         stroke-linejoin="round"
@@ -53,6 +40,7 @@ setdata({
         version="1.2"
         viewbox="0 0 1000 652"
         border="1px"
+
        
       >
         <svg>
@@ -67,7 +55,6 @@ setdata({
         <circle cx="636" cy="498.9" id="2"></circle>
       </svg>
 ))}
-      
     </div>
   );
 }
