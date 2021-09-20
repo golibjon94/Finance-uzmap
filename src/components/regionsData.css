@@ -1,198 +1,199 @@
 
 #Tashkent  {
-    fill:rgb(9, 82, 82);
+    fill: #9eabda;
+   
 }
 #UZTA220:hover {
-    fill:red;
+    fill:	#f08080;
 }
 
 #UZTA224:hover{
-    fill: rgb(114, 99, 72);
+    fill: 	#f08080;
 }
 
 #UZTA228:hover{
-    fill: rgb(95, 85, 28);
+    fill: 	#f08080;
 }
 #UZTA256:hover{
-    fill: seagreen;
+    fill: 	#f08080;
 }
 
 #UZTA248:hover{
-      fill: rgb(14, 190, 190);
+      fill: 	#f08080;
 }
 
 #UZTA212:hover{
-    fill: rgb(179, 115, 115);
+    fill: 	#f08080;
 }
 
 #UZTA206:hover{
-    fill: firebrick;
+    fill: 	#f08080;
 }
 
 #UZTA249:hover{
-    fill: lightpink;
+    fill:#f08080;
 }
 
 #UZTA250:hover{
-    fill: brown;
+    fill: 	#f08080;
 }
 
 #UZTA233:hover{
-    fill: violet;
+    fill: 	#f08080;
 }
 #UZTA237:hover{
-    fill: indianred;
+    fill: 	#f08080;
 }
 
 #UZTA253:hover{
-    fill: yellow;
+    fill: 	#f08080;
 }
 
 #UZTA259:hover{
-    fill:darkviolet;
+    fill:	#f08080;
 }
 #UZTA239:hover{
-    fill: gray;
+    fill: 	#f08080;
 }
 
 /*--------------------------------------------*/
 #Bukhoro  {
-    fill:red;
+    fill:#9eabda;
 }
 
 
  #UZBU207:hover{
-    fill: rgb(114, 99, 72);
+    fill: 	#f08080;
 }
 
  #UZBU204:hover{
-    fill: rgb(95, 85, 28);
+    fill: 	#f08080;
 }
  #UZBU215:hover{
-    fill: brown;
+    fill: 	#f08080;
 }
  #UZBU246:hover{
-    fill: teal;
+    fill: 	#f08080;
 }
  #UZBU219:hover{
-    fill: yellow;
+    fill: 	#f08080;
 }
  #UZBU230:hover{
-    fill: seagreen;
+    fill: 	#f08080;
 }
  #UZBU232:hover{
-    fill: lightpink;
+    fill: 	#f08080;
 }
  #UZBU242:hover{
-    fill: seagreen;
+    fill: 	#f08080;
 }
  #UZBU243:hover{
-    fill: gray;
+    fill: 	#f08080;
 }
  #UZBU244:hover{
-    fill: violet;
+    fill: 	#f08080;
 }
  #UZBU240:hover{
-    fill: firebrick;
+    fill: 	#f08080;
 }
  #UZBU258:hover{
-    fill: darkviolet;
+    fill: 	#f08080;
 }
  #UZBU212:hover{
-    fill: indianred;
+    fill: 	#f08080 ;
 }
 
 /*-------------------------------------------------*/
 
 #Khorezm{
-    fill:gray;
+    fill:#9eabda;
 }
 
  #UZKH236:hover{
-    fill: yellow;
+    fill: 	#f08080;
 }
  #UZKH233:hover{
-    fill: rgb(172, 172, 0);
+    fill: 	#f08080;
 }
  #UZKH217:hover{
-    fill: rgb(108, 235, 163);
+    fill: 	#f08080;
 }
  #UZKH230:hover{
-    fill: lightpink;
+    fill: 	#f08080
 }
  #UZKH212:hover{
-    fill: seagreen;
+    fill: 	#f08080;
 }
  #UZKH226:hover{
-    fill: rgb(155, 145, 56);
+    fill: 	#f08080;
 }
  #UZKH220:hover{
-    fill: violet;
+    fill: 	#f08080;
 }
  #UZKH223:hover{
-    fill: firebrick;
+    fill: 	#f08080;
 }
  #UZKH208:hover{
-    fill: darkviolet;
+    fill: 	#f08080;
 }
  #UZKH204:hover{
-    fill: indianred;
+    fill:	#f08080;
 }
 
 /*--------------------------------------------*/
 
 #Karakalpakstan{
-    fill:rgb(70, 70, 4);
+    fill:#9eabda;
 }
 
 
 #UZQR204:hover{
-    fill: yellow;
+    fill:	#f08080;
 }
  #UZQR207:hover{
-    fill: rgb(172, 172, 0);
+    fill: 	#f08080;
 }
  #UZQR240:hover{
-    fill: rgb(108, 235, 163);
+    fill: 	#f08080;
 }
  #UZQR241:hover{
-    fill: lightpink;
+    fill: 	#f08080;
 }
  #UZQR250:hover{
-    fill: seagreen;
+    fill:	#f08080;
 }
  #UZQR212:hover{
-    fill: rgb(155, 145, 56);
+    fill: 	#f08080;
 }
  #UZQR222:hover{
-    fill: violet;
+    fill: 	#f08080;
 }
  #UZQR401:hover{
-    fill: firebrick;
+    fill: 	#f08080;
 }
  #UZQ218:hover{
-    fill: darkviolet;
+    fill: 	#f08080;
 }
  #UZQR215:hover{
-    fill: rgb(177, 18, 18);
+    fill: 	#f08080;
 }
  #UZQR215:hover{
-    fill: rgb(92, 182, 205);
+    fill: 	#f08080;
 }
  #UZQR211:hover{
-    fill: rgb(205, 92, 158);
+    fill: 	#f08080;
 }
  #UZQR243:hover{
-    fill: rgb(117, 6, 6);
+    fill: 	#f08080;
 }
  #UZQR233:hover{
-    fill: rgb(68, 151, 13);
+    fill: 	#f08080;
 }
  #UZQR230:hover{
-    fill: rgb(205, 179, 92);
+    fill: 	#f08080;
 }
  #UZQR236:hover{
-    fill: rgb(61, 190, 49);
+    fill: 	#f08080;
 }
 
 /*---------------------------------------------------*/
@@ -200,87 +201,87 @@
 
 
 #Navoi{
-    fill:rgb(19, 156, 99);  
+    fill:#9eabda;  
     align-items: center;
 }
 
 
 #UZNW111:hover{
-    fill: rgb(18, 221, 106);
+    fill: 	#f08080;
 }
  #UZNW112:hover{
-    fill: rgb(12, 33, 148);
+    fill: 	#f08080);
 }
  #UZNW234:hover{
-    fill: rgb(12, 93, 47);
+    fill: 	#f08080;
 }
  #UZNW216:hover{
-    fill: rgb(131, 118, 7);
+    fill: 	#f08080);
 }
  #UZNW251:hover{
-    fill: rgb(161, 16, 161);
+    fill: 	#f08080;
 }
  #UZNW238:hover{
-    fill: rgb(151, 31, 31);
+    fill: 	#f08080;
 }
  #UZQ218:hover{
-    fill: rgb(83, 20, 110);
+    fill: 	#f08080;
 }
  #UZNW244:hover{
-    fill: rgb(240, 57, 57);
+    fill: 	#f08080;
 }
  #UZNW248:hover{
-    fill: rgb(41, 182, 218);
+    fill: 	#f08080;
 }
  #UZNW9:hover{
-    fill: rgb(179, 13, 109);
+    fill: 	#f08080;
 }
  
 /* -------------------------------------------------------------*/
 
 #Kashkadarya{
-    fill: rgb(231, 149, 176);
+    fill: #9eabda;
 }
 
 
 #UZQA242:hover{
-    fill: rgb(14, 158, 76);
+    fill:	#f08080;
 }
  #UZQA212:hover{
-    fill: rgb(8, 23, 107);
+    fill: 	#f08080;
 }
  #UZQA207:hover{
-    fill: rgb(12, 93, 47);
+    fill: 	#f08080;
 }
  #UZQA220:hover{
-    fill: rgb(100, 92, 19);
+    fill: 	#f08080;
 }
  #UZQA224:hover{
     fill: rgb(119, 35, 119);
 }
  #UZQA229:hover{
-    fill: rgb(206, 32, 32);
+    fill: 	#f08080;
 }
  #UZQA237:hover{
-    fill: rgb(77, 22, 100);
+    fill: 	#f08080;
 }
  #UZQA232:hover{
-    fill: rgb(160, 31, 31);
+    fill: 	#f08080;
 }
  #UZQA233:hover{
-    fill: rgb(17, 105, 128);
+    fill: 	#f08080;
 }
  #UZQA234:hover{
-    fill: rgb(241, 197, 255);
+    fill: 	#f08080;
 }
  #UZQA235:hover{
-    fill: rgb(71, 66, 80);
+    fill: 	#f08080;
 }
  #UZQA245:hover{
-    fill: rgb(12, 94, 161);
+    fill: 	#f08080;
 }
  #UZQA250:hover{
-    fill: rgb(154, 228, 16);
+    fill: 	#f08080;
 }
 
 /*---------------------------------------------------------------*/
