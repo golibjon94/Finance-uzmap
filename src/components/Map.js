@@ -19,7 +19,7 @@ function Map() {
     setIsOpen(true);
   };
   const doubleClick = (id) => {
-    history.push(`Finance-uzmap/regionsData/${id}`);
+    history.push(`/regionsData/${id}`);
   };
   return (
     <div className="regions">
