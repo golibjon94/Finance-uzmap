@@ -16,10 +16,10 @@ function App() {
         <div className="dashboard">
       <Router >  
 <Switch>
-  <Route  exact path="/" >
+  <Route  exact path="/Finance-uzmap" >
   <Map/>
   </Route>
-  <Route  exact path="/regionsData/:id" >
+  <Route  exact path="/Finance-uzmap/regionsData/:id" >
 <RegionsData/>
 
 <Chart/>

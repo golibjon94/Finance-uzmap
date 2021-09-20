@@ -1,5 +1,6 @@
 {
   "name": "map-dashboard",
+  "homepage": "https://golibjon94.github.io/Finance-uzmap",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
