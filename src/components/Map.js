@@ -19,7 +19,7 @@ function Map() {
     setIsOpen(true);
   };
   const doubleClick = (id) => {
-    history.push(`/regionsData/${id}`);
+    history.push(`/regionData/${id}`);
   };
   return (
     <div className="regions">
