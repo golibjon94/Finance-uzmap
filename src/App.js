@@ -21,8 +21,8 @@ function App() {
   </Route>
   <Route  exact path="/regionsData/:id" >
 <RegionsData/>
-<Chart/>
 
+<Chart/>
   </Route>
   
 </Switch>

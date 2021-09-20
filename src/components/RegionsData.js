@@ -5,9 +5,9 @@ import { useParams } from "react-router-dom";
 import axios from "axios";
 import {useDispatch} from "react-redux";
 import {addRegionsInfos} from "../redux/regionsSlice"
+import data from "../datas/apidatas.json";
 
 function RegionsData() {
-
   const [categories, setcategories] = useState([]);
   const { id } = useParams();
   const filteredDatas = allDatas.filter((item) => item.id === id);
@@ -18,11 +18,13 @@ function RegionsData() {
 
 
 const getDatas=(id)=>{
-    // alert(id);
+  alert(id)
+// const filterData=data.filter(item=>item.id===id)
 
-    axios.get("https://jsonplaceholder.typicode.com/users")
-    .then(res=>dispatch(addRegionsInfos(res.data)))
-    .catch(err=>console.log(err.message))
+    // dispatch(addRegionsInfos(filterData))
+    // axios.get("https://jsonplaceholder.typicode.com/users")
+    // .then(res=>dispatch(addRegionsInfos(res.data)))
+    // .catch(err=>console.log(err.message))
 }
   return (
     <div>

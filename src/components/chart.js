@@ -1,4 +1,4 @@
-import * as React from 'react';
+import  React,{useState} from 'react';
 import Paper from '@material-ui/core/Paper';
 import {
   Chart,
@@ -23,6 +23,8 @@ import { connectProps } from '@devexpress/dx-react-core';
 import { format } from 'd3-format';
 
 import { oilProduction } from '../datas/chartData';
+import data from "../datas/apidatas.json";
+import { useSelector } from 'react-redux';
 
 const consumptionSeriesName = 'Consumption';
 const consumptionColor = '#41c0f0';
@@ -54,11 +56,12 @@ const pointOptions = { size: 7 };
 const getPointOptions = state => (state ? { size: 7 } : { size: 0 });
 
 const AreaPoint = (props) => {
+
   const patched = patchProps(props);
   return <ScatterSeries.Point point={getPointOptions(patched.state)} {...patched} />;
 };
-
 const AreaWithPoints = ({ state, ...props }) => (
+
   <React.Fragment>
     {/* <AreaSeries.Path {...props} /> */}
     <ScatterSeries.Path {...props} />
@@ -77,16 +80,13 @@ const SplineWithPoints = props => (
 );
 
 const series = [
-  { name: 'Jami arizalar', key: 'usa', color: '#08abbd' },
-  { name: 'Ma\'qullangan', key: 'saudiArabia', color: '#78bc97' },
-  { name: 'Rad etilgan', key: 'iran', color: '#d4d67e' },
-  { name: 'Muddati tugagan', key: 'mexico', color: '#9ccc65' },
-//   {
-//     name: consumptionSeriesName, key: 'consumption', color: consumptionColor, type: AreaSeries,
-//   },
-//   {
-//     name: 'Oil Price', key: 'price', color: priceColor, scale: 'price', type: SplineSeries,
-//   },
+
+  { name: 'Jami arizalar', key: "jamiAriza", color: '#08abbd' },
+  { name: 'Ma\'qullangan', key: 'maqullangan', color: '#78bc97' },
+  { name: 'Rad etilgan', key: 'radEtilgan', color: '#d4d67e' },
+  { name: 'Muddati tugagan', key: 'muddatiTugagan', color: '#9ccc65' },
+
+
 ];
 
 const legendRootStyle = {
@@ -151,7 +151,7 @@ const stacks = [
   { series: series.filter(obj => !obj.type).map(obj => obj.name) },
 ];
 
-const modifyOilDomain = domain => [domain[0], 2000];
+const modifyOilDomain = domain => [domain[0], 3000];
 const modifyPriceDomain = () => [0];
 
 const getHoverIndex = ({ target }) => (target ? target.point : -1);
@@ -172,7 +172,7 @@ export default class Demo extends React.PureComponent {
     this.createComponents();
     this.createSeries();
   }
-
+  year
   componentDidUpdate(prevProps, prevState) {
     if (getHoverIndex(prevState) !== getHoverIndex(this.state)) {
       this.BarPoint.update();
