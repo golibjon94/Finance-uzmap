@@ -19,7 +19,7 @@ function App() {
   <Route  exact path="/Finance-uzmap" >
   <Map/>
   </Route>
-  <Route  exact path="/Finance-uzmap/regionsData/:id" >
+  <Route  exact path="/regionsData/:id" >
 <RegionsData/>
 
 <Chart/>
