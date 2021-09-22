@@ -4,7 +4,7 @@ import Map from "./components/Map"
 import RegionsData from "./components/RegionsData"
 import Sidebar from "./components/Sidebar"
 import Header from "./components/Header"
-import Chart from "./components/chart";
+import Chart from "./charts/apexChart";
 import {BrowserRouter as Router,Switch,Route} from 'react-router-dom'
 
 function App() {
@@ -21,7 +21,6 @@ function App() {
   </Route>
   <Route  exact path="/regionData/:id" >
 <RegionsData/>
-
 <Chart/>
   </Route>
   

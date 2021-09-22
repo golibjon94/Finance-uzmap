@@ -9,35 +9,46 @@ export default function TableComponent() {
     useEffect(() => {
      setRegionsInfos(allInfos)
     }, [allInfos])
-  
-
+ 
     return (
         <Table striped bordered hover>
         <thead>
           <tr>
-            <th>id</th>
-            <th>name</th>
-            <th>username</th>
-            <th>email</th>
-            <th>phone</th>
-            <th>website</th>
+            <th>Tuman nomi</th>
+            <th>Jami arizalar</th>
+            <th>Ma'qullangan arizalar</th>
+            <th>Rad etilgan arizalar</th>
+            <th>Muddati tugagan arizalar</th>
        
           </tr>
         </thead>
 
-        {regionsInfos!==[] && regionsInfos.map(item=>(
+     
+
+        {regionsInfos!==[] ? regionsInfos.map(item=>(
 
         <tbody>
           <tr>
-          <td>{item.id}</td>
-            <td>{item.name}</td>
-            <td>{item.username}</td>
-            <td>{item.email}</td>
-            <td>{item.phone}</td>
-            <td>{item.website}</td>   
+            <td>{item.tumanNomi}</td>
+            <td>{item.JamiArizalar}</td>
+            <td>{item.maqullangan}</td>
+            <td>{item.radEtilgan}</td>
+            <td>{item.muddatiTugagan}</td>
           </tr>
         </tbody>
-        ))}
+        ))
+      :
+      <tbody>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+
+      </tr>
+    </tbody>
+     }
 
       </Table>
     )

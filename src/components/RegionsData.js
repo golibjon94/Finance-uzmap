@@ -17,15 +17,17 @@ function RegionsData() {
   }, []);
 
 
-const getDatas=(id)=>{
-  alert(id)
-// const filterData=data.filter(item=>item.id===id)
-
-    // dispatch(addRegionsInfos(filterData))
+const getDatas=(id,name)=>{
+  // alert(name)
+ const filterData=data.filter(item=>item.id==id)
+    dispatch(addRegionsInfos(filterData))
     // axios.get("https://jsonplaceholder.typicode.com/users")
     // .then(res=>dispatch(addRegionsInfos(res.data)))
     // .catch(err=>console.log(err.message))
 }
+// const hoverHandling=(id)=>{
+//   alert(id)
+// }
   return (
     <div>
    
@@ -48,7 +50,8 @@ const getDatas=(id)=>{
         <svg>
           {categories?.map((item) => (
             <path
-            onClick={(id)=>{getDatas(item.id)}}
+            // onMouseOver={(id)=>{hoverHandling(item.id)}}
+            onClick={(id,name)=>{getDatas(item.id,item.name)}}
              id={item.id} d={item.d} />
           ))}
         </svg>

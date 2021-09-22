@@ -1,12 +1,34 @@
 [
     {
-      "id":"UZQR218",
-      "tumanNomi":"Mo'ynoq",
-      "JamiArizalar": "2000 ta",
-      "maqullangan": "1000 ta",
-      "radEtilgan": "600 ta",
-      "muddatiTugagan": "400 ta"
+      "id":"UZTA220",
+      "tumanNomi":"Chinoz",
+      "JamiArizalar": "3000",
+      "maqullangan": "1500",
+      "radEtilgan": "1000",
+      "muddatiTugagan": "500",
+      "datas":[1500,1000,500]
+    },
+    {
+      "id":"UZTA224",
+      "tumanNomi":"Yangiyol",
+      "JamiArizalar": "4500",
+      "maqullangan": "2500",
+      "radEtilgan": "500",
+      "muddatiTugagan": "1000",
+      "datas":[2500,500,1000]
+
+    },
+    {
+      "id":"UZTA228",
+      "tumanNomi":"Bo'ka",
+      "JamiArizalar": "2000",
+      "maqullangan": "1000",
+      "radEtilgan": "600",
+      "muddatiTugagan": "400",
+      "datas":[1000,600,400]
+
     }
+
 
    
   ]
