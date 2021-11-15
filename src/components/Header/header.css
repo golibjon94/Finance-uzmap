@@ -1,0 +1,48 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    background-color:#f1eaea;
+    align-items: center;
+    text-align: center;
+    padding: 10px 20px;
+}
+.left{
+    padding-top: 8px;
+    padding-left: 50px;
+    display: flex;
+}
+.left p{
+    padding-right: 20px;
+}
+.right{
+    display: flex;
+    align-items: center;
+}
+.right select{
+    margin-right: 20px;
+    padding:10px;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+}
+.right span{
+    margin: 0 15px;
+    cursor: pointer;
+    color:black
+}
+.right form{
+    display: flex;
+    border: 1px solid gray;
+    align-items: center;
+    padding: 0 5px;
+    border-radius: 4px;
+    background-color: rgb(194, 211, 209);
+}
+.right form input{
+    border: none;
+    background-color: transparent;
+    padding: 5px ;
+    outline: none;
+}

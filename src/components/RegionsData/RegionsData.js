@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from "react";
 import "./regionsData.css";
-import { allDatas } from "../allDatas";
+import { allDatas } from "../../datas/allDatas";
 import { useParams } from "react-router-dom";
 import axios from "axios";
 import {useDispatch} from "react-redux";
-import {addRegionsInfos} from "../redux/regionsSlice"
-import data from "../datas/apidatas.json";
+import {addRegionsInfos} from "../../redux/regionsSlice"
+import data from "../../datas/apidatas.json";
 
 function RegionsData() {
   const [categories, setcategories] = useState([]);

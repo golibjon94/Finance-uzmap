@@ -1,0 +1,13 @@
+.infos{
+    padding-left: 10px;
+    /* display: flex; */
+    background-color: whitesmoke;
+}
+ .map_chart{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 55px;
+}
+.homepage_charts{
+/* display: flex; */
+}

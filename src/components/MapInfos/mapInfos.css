@@ -1,0 +1,24 @@
+.mapInfos{
+    width: 500px;
+    /* align-items: center;
+    text-align: center; */
+    /* padding:20px; */
+    padding-top: 50px;
+
+}
+.mapInfos .top{
+    display: flex;
+    justify-content: space-around;
+    margin-left: -40px;
+}
+.mapInfos table{
+    margin-top: 20px;
+    width: 450px;
+
+}
+.mapInfos table, td,th{
+    border: 1px solid gray;
+    border-collapse: collapse;
+    padding:10px 15px;
+
+}

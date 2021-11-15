@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+.banner{
+    height: 450px;
+    background-image: url("../../assets/moliyaa.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.banner h1{
+    color: white;
+    font-size: 45px;
+    font-family: 'Roboto', sans-serif;
+    text-transform: capitalize;
+    padding: 30px ;
+    margin-left: 37px;
+    font-weight: bold;
+
+}
+.banner .finInfos{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+.banner .finInfos .daromad,.defitsit,.xarajatlar{
+    margin-right: 170px;
+}
+.banner .finInfos .infos_name{
+    font-size: 40px;
+    line-height: 10px;
+}

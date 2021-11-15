@@ -1,0 +1,9 @@
+.navbar{
+    height: 70px;
+    padding: 10px 30px;
+    display: flex;
+}
+.navbar img{
+    height: 50px;
+    margin-left: 40px;
+}
