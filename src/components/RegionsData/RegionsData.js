@@ -40,10 +40,10 @@ const getDatas=(id,name)=>{
         stroke="#ffffff"
         stroke-linecap="round"
         stroke-linejoin="round"
-        stroke-width="2"
+        stroke-width="1"
         version="1.2"
         viewbox="0 0 1000 652"
-        border="1px"
+       
 
        
       >

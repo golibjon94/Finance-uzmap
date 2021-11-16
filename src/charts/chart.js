@@ -1,9 +1,7 @@
 import React,{useState,useEffect} from "react";
 import { Doughnut } from "react-chartjs-2";
-import AllInfos from "../../allmaps/datas/apidatas.json"
+// import AllInfos from "../../allmaps/datas/apidatas.json"
 import { useSelector } from "react-redux";
-
-
 
 function Chartt({infos,regInfos,uzb}) {
 const [datas, setDatas] = useState([3000])
@@ -50,17 +48,17 @@ const state = {
 };
     return (
       <div style={{ marginTop: "0px" }}>
-      {!uzb && allInfos?.map(item=>(
+      {/* {!uzb && allInfos?.map(item=>(
 <h2 style={{paddingLeft:"40px"}}>
 Tuman nomi:<span style={{color:"royalblue"}}>{item.tumanNomi}</span>
 </h2>
-      ))}
-     
+      ))} */}
+     <h2 style={{marginLeft:"30px"}}>Tumanlar kesimida ma'lumotlar</h2>
       <Doughnut
         style={{height: "140px",width:"400px",
-        marginLeft: "10px",
-        marginTop:"-60px",
-      padding:"60px"
+        marginLeft: "60px",
+        marginTop:"-40px",
+      padding:"50px"
      }}
         data={state}
         options={

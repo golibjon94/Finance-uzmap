@@ -2,18 +2,20 @@
     display: flex;
     justify-content: space-between;
     height: 70px;
-    background-color:#f1eaea;
+    background-color:rgb(32, 61, 187);
     align-items: center;
     text-align: center;
-    padding: 10px 20px;
+    padding: 5px 20px;
 }
 .left{
-    padding-top: 8px;
     padding-left: 50px;
     display: flex;
+    margin-top: -8px;
 }
 .left p{
     padding-right: 20px;
+    font-size: 18px;
+
 }
 .right{
     display: flex;
@@ -26,11 +28,14 @@
     background-color: transparent;
     outline: none;
     cursor: pointer;
+    color: white;
+    font-weight: bold;
 }
 .right span{
     margin: 0 15px;
     cursor: pointer;
-    color:black
+    color:white;
+    font-weight: bold;
 }
 .right form{
     display: flex;

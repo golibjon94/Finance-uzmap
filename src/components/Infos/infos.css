@@ -1,13 +1,21 @@
 .infos{
-    padding-left: 10px;
+    /* padding-left: 10px; */
     /* display: flex; */
     background-color: whitesmoke;
 }
  .map_chart{
+     margin-top: 5px;
     display: flex;
     justify-content: space-between;
     padding-left: 55px;
+    /* border: 1px solid gray; */
+    box-shadow: 2px 2px 2px 1px rgba(136, 189, 143, 0.1);
+    background-color: rgb(243, 235, 235);
+
 }
-.homepage_charts{
-/* display: flex; */
+.infos .charts{
+  display: flex;
+  margin-top: 5px;
+  box-shadow: 1px 1px 1px 1px rgba(81, 90, 99, 0.1);
+  background-color: rgb(240, 231, 231);
 }

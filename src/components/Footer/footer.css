@@ -1,0 +1,31 @@
+.footer{
+   
+    padding: 10px;
+    padding-bottom: 3px;
+    background-color: rgb(32, 61, 187);
+}
+.contacts{
+    display: flex;
+    justify-content: space-evenly;
+}
+.email,.manzil,.faks,.ishonch_tel{
+    padding-right: 40px;
+
+}
+.contacts p{
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    line-height: 15px;
+}
+.contacts span{
+    color:orange;
+    font-size: 18px;
+}
+ p{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 14px;
+    color: rgb(233, 221, 221);
+    font-weight: bold;
+}

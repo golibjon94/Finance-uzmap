@@ -11,6 +11,7 @@ export default function MapInfos() {
               lineHeight: "15px",
               color: "blue",
               fontSize: "30px",
+              paddingLeft:"0"
             }}
           >
             Daromad
@@ -25,7 +26,7 @@ export default function MapInfos() {
           >
             30000
           </p>
-          mlrd. sum
+          <span style={{paddingLeft:"30px"}}>mlrd. sum</span>
         </div>
         <div className="xarajat">
           <p style={{ lineHeight: "15px", color: "blue", fontSize: "30px" }}>
@@ -41,7 +42,7 @@ export default function MapInfos() {
           >
             30000
           </p>
-          mlrd. sum
+          <span style={{paddingLeft:"15px"}}>mlrd. sum</span>
         </div>
       </div>
       <table>

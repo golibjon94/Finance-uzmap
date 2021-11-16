@@ -53,9 +53,8 @@ function Map() {
           viewBox="0 0 264.05408 171.97914"
           version="1.1"
           id="uzbekistan"
-          stroke="orange"
+          stroke="white"
           stroke-width="0.5"
-          
           xmlns="http://www.w3.org/2000/svg"
         >
           <sodipodi
@@ -75,6 +74,7 @@ function Map() {
           <g id="layer1" transform="translate(-32.388773,-30.710986)">
             {uzbDatas?.map((item) => ( 
               <path 
+
               d={item.d} name={item.name} id={item.id}
               onDoubleClick={(id)=>doubleClick(item.id)}
               onClick={(id, name) => {
