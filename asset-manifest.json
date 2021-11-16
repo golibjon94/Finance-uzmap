@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Finance-uzmap/static/css/main.5be3d6b7.chunk.css",
+    "main.css": "/Finance-uzmap/static/css/main.0f265499.chunk.css",
     "main.js": "/Finance-uzmap/static/js/main.2ddef637.chunk.js",
     "main.js.map": "/Finance-uzmap/static/js/main.2ddef637.chunk.js.map",
     "runtime-main.js": "/Finance-uzmap/static/js/runtime-main.da7a1fda.js",
@@ -10,7 +10,7 @@
     "static/js/2.bbefdaa9.chunk.js.map": "/Finance-uzmap/static/js/2.bbefdaa9.chunk.js.map",
     "index.html": "/Finance-uzmap/index.html",
     "static/css/2.818011ed.chunk.css.map": "/Finance-uzmap/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.5be3d6b7.chunk.css.map": "/Finance-uzmap/static/css/main.5be3d6b7.chunk.css.map",
+    "static/css/main.0f265499.chunk.css.map": "/Finance-uzmap/static/css/main.0f265499.chunk.css.map",
     "static/js/2.bbefdaa9.chunk.js.LICENSE.txt": "/Finance-uzmap/static/js/2.bbefdaa9.chunk.js.LICENSE.txt",
     "static/media/moliyaLogo.2071a11f.png": "/Finance-uzmap/static/media/moliyaLogo.2071a11f.png",
     "static/media/banner.css": "/Finance-uzmap/static/media/moliyaa.a15adb62.jpg"
@@ -19,7 +19,7 @@
     "static/js/runtime-main.da7a1fda.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.bbefdaa9.chunk.js",
-    "static/css/main.5be3d6b7.chunk.css",
+    "static/css/main.0f265499.chunk.css",
     "static/js/main.2ddef637.chunk.js"
   ]
 }
