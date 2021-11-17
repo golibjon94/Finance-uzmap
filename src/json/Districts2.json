@@ -1,0 +1,67 @@
+[
+    {
+        "DistrictID": 21,
+        "Name": "ОЛОТ ТУМАНИ",
+        "RegionID": 2
+    },
+    {
+        "DistrictID": 22,
+        "Name": "ВОБКЕНТ ТУМАНИ",
+        "RegionID": 2
+    },
+    {
+        "DistrictID": 23,
+        "Name": "ГИЖДУВОН ТУМАНИ",
+        "RegionID": 2
+    },
+    {
+        "DistrictID": 24,
+        "Name": "БУХОРО ТУМАНИ",
+        "RegionID": 2
+    },
+    {
+        "DistrictID": 25,
+        "Name": "КОРАКУЛ ТУМАНИ",
+        "RegionID": 2
+    },
+    {
+        "DistrictID": 26,
+        "Name": "РОМИТАН ТУМАНИ",
+        "RegionID": 2
+    },
+    {
+        "DistrictID": 27,
+        "Name": "ЖОНДОР ТУМАНИ",
+        "RegionID": 2
+    },
+    {
+        "DistrictID": 28,
+        "Name": "ШОФИРКОН ТУМАНИ",
+        "RegionID": 2
+    },
+    {
+        "DistrictID": 29,
+        "Name": "ПЕШКУ ТУМАНИ",
+        "RegionID": 2
+    },
+    {
+        "DistrictID": 30,
+        "Name": "КОРОВУЛБОЗОР ТУМАНИ",
+        "RegionID": 2
+    },
+    {
+        "DistrictID": 31,
+        "Name": "КОГОН ТУМАНИ",
+        "RegionID": 2
+    },
+    {
+        "DistrictID": 32,
+        "Name": "БУХОРО ШАХРИ",
+        "RegionID": 2
+    },
+    {
+        "DistrictID": 33,
+        "Name": "КОГОН ШАХРИ",
+        "RegionID": 2
+    }
+]

@@ -10,9 +10,9 @@ export default function Header() {
   return (
     <div className="header">
       <div className="left">
-        <p>USD 10600</p>
-        <p>USD 10600</p>
-        <p>USD 10600</p>
+        <p>USD 10737.06</p>
+        <p>EUR 12286.42</p>
+        <p>RUB 148.98</p>
       </div>
       <div className="right">
         <select>

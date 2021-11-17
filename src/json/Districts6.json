@@ -1,0 +1,67 @@
+[
+    {
+        "DistrictID": 75,
+        "Name": "НАМАНГАН ШАХРИ",
+        "RegionID": 6
+    },
+    {
+        "DistrictID": 76,
+        "Name": "МИНГБУЛОК ТУМАНИ",
+        "RegionID": 6
+    },
+    {
+        "DistrictID": 77,
+        "Name": "КОСОНСОЙ ТУМАНИ",
+        "RegionID": 6
+    },
+    {
+        "DistrictID": 78,
+        "Name": "НОРИН ТУМАНИ",
+        "RegionID": 6
+    },
+    {
+        "DistrictID": 79,
+        "Name": "ПОП ТУМАНИ",
+        "RegionID": 6
+    },
+    {
+        "DistrictID": 80,
+        "Name": "ТУРАКУРГОН ТУМАНИ",
+        "RegionID": 6
+    },
+    {
+        "DistrictID": 81,
+        "Name": "УЙЧИ ТУМАНИ",
+        "RegionID": 6
+    },
+    {
+        "DistrictID": 82,
+        "Name": "УЧКУРГОН ТУМАНИ",
+        "RegionID": 6
+    },
+    {
+        "DistrictID": 83,
+        "Name": "ЧУСТ ТУМАНИ",
+        "RegionID": 6
+    },
+    {
+        "DistrictID": 84,
+        "Name": "ЯНГИКУРГОН ТУМАНИ",
+        "RegionID": 6
+    },
+    {
+        "DistrictID": 85,
+        "Name": "НАМАНГАН ТУМАНИ",
+        "RegionID": 6
+    },
+    {
+        "DistrictID": 86,
+        "Name": "ЧОРТОК ТУМАНИ",
+        "RegionID": 6
+    },
+    {
+        "DistrictID": 230,
+        "Name": "ДАВЛАТОБОД ТУМАНИ",
+        "RegionID": 6
+    }
+]

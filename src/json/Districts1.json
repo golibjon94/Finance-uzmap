@@ -1,0 +1,102 @@
+[
+    {
+        "DistrictID": 1,
+        "Name": "АНДИЖОН ШАХРИ",
+        "RegionID": 1
+    },
+    {
+        "DistrictID": 2,
+        "Name": "АСАКА ШАХРИ",
+        "RegionID": 1
+    },
+    {
+        "DistrictID": 3,
+        "Name": "ХОНОБОД ШАХРИ",
+        "RegionID": 1
+    },
+    {
+        "DistrictID": 4,
+        "Name": "КОРАСУВ ШАХРИ",
+        "RegionID": 1
+    },
+    {
+        "DistrictID": 5,
+        "Name": "Г.ШАХРИХАН",
+        "RegionID": 1
+    },
+    {
+        "DistrictID": 6,
+        "Name": "АНДИЖОН ТУМАНИ",
+        "RegionID": 1
+    },
+    {
+        "DistrictID": 7,
+        "Name": "АСАКА ТУМАНИ",
+        "RegionID": 1
+    },
+    {
+        "DistrictID": 8,
+        "Name": "БАЛИКЧИ ТУМАНИ",
+        "RegionID": 1
+    },
+    {
+        "DistrictID": 9,
+        "Name": "БУСТОН ТУМАНИ",
+        "RegionID": 1
+    },
+    {
+        "DistrictID": 10,
+        "Name": "БУЛОКБОШИ ТУМАНИ",
+        "RegionID": 1
+    },
+    {
+        "DistrictID": 11,
+        "Name": "ЖАЛОЛКУДУК ТУМАНИ",
+        "RegionID": 1
+    },
+    {
+        "DistrictID": 12,
+        "Name": "ИЗБОСКАН ТУМАНИ",
+        "RegionID": 1
+    },
+    {
+        "DistrictID": 13,
+        "Name": "КОМСОМОЛАБАДСКИЙ",
+        "RegionID": 1
+    },
+    {
+        "DistrictID": 14,
+        "Name": "КУРГОНТЕПА ТУМАНИ",
+        "RegionID": 1
+    },
+    {
+        "DistrictID": 15,
+        "Name": "МАРХАМАТ ТУМАНИ",
+        "RegionID": 1
+    },
+    {
+        "DistrictID": 16,
+        "Name": "ОЛТИНКУЛ ТУМАНИ",
+        "RegionID": 1
+    },
+    {
+        "DistrictID": 17,
+        "Name": "ПАХТАОБОД ТУМАНИ",
+        "RegionID": 1
+    },
+    {
+        "DistrictID": 18,
+        "Name": "ХУЖАОБОД ТУМАНИ",
+        "RegionID": 1
+    },
+    {
+        "DistrictID": 19,
+        "Name": "УЛУГНОР ТУМАНИ",
+        "RegionID": 1
+    },
+    {
+        "DistrictID": 20,
+        "Name": "ШАХРИХОН ТУМАНИ",
+        "RegionID": 1
+    }
+]

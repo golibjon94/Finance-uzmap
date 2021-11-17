@@ -1,0 +1,102 @@
+[
+    {
+        "DistrictID": 171,
+        "Name": "КУКОН ШАХРИ",
+        "RegionID": 12
+    },
+    {
+        "DistrictID": 172,
+        "Name": "МАРГИЛОН ШАХРИ",
+        "RegionID": 12
+    },
+    {
+        "DistrictID": 173,
+        "Name": "ФАРГОНА ШАХРИ",
+        "RegionID": 12
+    },
+    {
+        "DistrictID": 174,
+        "Name": "КУВАСОЙ ШАХРИ",
+        "RegionID": 12
+    },
+    {
+        "DistrictID": 175,
+        "Name": "БЕШАРИК ТУМАНИ",
+        "RegionID": 12
+    },
+    {
+        "DistrictID": 176,
+        "Name": "БОГДОД ТУМАНИ",
+        "RegionID": 12
+    },
+    {
+        "DistrictID": 177,
+        "Name": "БУВАЙДА ТУМАНИ",
+        "RegionID": 12
+    },
+    {
+        "DistrictID": 178,
+        "Name": "ДАНГАРА ТУМАНИ",
+        "RegionID": 12
+    },
+    {
+        "DistrictID": 179,
+        "Name": "ЁЗЁВОН ТУМАНИ",
+        "RegionID": 12
+    },
+    {
+        "DistrictID": 180,
+        "Name": "КУВА ТУМАНИ",
+        "RegionID": 12
+    },
+    {
+        "DistrictID": 181,
+        "Name": "ОЛТИАРИК ТУМАНИ",
+        "RegionID": 12
+    },
+    {
+        "DistrictID": 182,
+        "Name": "КУШТЕПА ТУМАНИ",
+        "RegionID": 12
+    },
+    {
+        "DistrictID": 183,
+        "Name": "РИШТОН ТУМАНИ",
+        "RegionID": 12
+    },
+    {
+        "DistrictID": 184,
+        "Name": "СУХ ТУМАНИ",
+        "RegionID": 12
+    },
+    {
+        "DistrictID": 185,
+        "Name": "ТОШЛОК ТУМАНИ",
+        "RegionID": 12
+    },
+    {
+        "DistrictID": 186,
+        "Name": "УЗБЕКИСТОН ТУМАНИ",
+        "RegionID": 12
+    },
+    {
+        "DistrictID": 187,
+        "Name": "УЧКУПРИК ТУМАНИ",
+        "RegionID": 12
+    },
+    {
+        "DistrictID": 188,
+        "Name": "ФАРГОНА ТУМАНИ",
+        "RegionID": 12
+    },
+    {
+        "DistrictID": 189,
+        "Name": "ФУРКАТ ТУМАНИ",
+        "RegionID": 12
+    },
+    {
+        "DistrictID": 190,
+        "Name": "КИРГУЛИЙСКИЙ",
+        "RegionID": 12
+    }
+]

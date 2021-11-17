@@ -1,0 +1,122 @@
+[
+    {
+        "DistrictID": 87,
+        "Name": "ОКДАРЁ ТУМАНИ",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 88,
+        "Name": "БУЛУНГУР ТУМАНИ",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 89,
+        "Name": "ГУЗАЛКЕНТСКИЙ",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 90,
+        "Name": "ЖОМБОЙ ТУМАНИ",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 91,
+        "Name": "ИШТИХОН ТУМАНИ",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 92,
+        "Name": "КАТТАКУРГОН ТУМАНИ",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 93,
+        "Name": "КУШРАБОТ ТУМАНИ",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 94,
+        "Name": "НАРПАЙ ТУМАНИ",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 95,
+        "Name": "НУРОБОД ТУМАНИ",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 96,
+        "Name": "ПАСТДАРГОМ ТУМАНИ",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 97,
+        "Name": "ПАХТАЧИ ТУМАНИ",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 98,
+        "Name": "ПАЙАРИК ТУМАНИ (ПАЙАРИК)",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 99,
+        "Name": "САМАРКАНД ТУМАНИ",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 100,
+        "Name": "ТАЙЛОК ТУМАНИ",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 101,
+        "Name": "УРГУТ ТУМАНИ",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 102,
+        "Name": "ЧЕЛЕКСКИЙ",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 103,
+        "Name": "САМАРКАНД ШАХРИ (БОFИШАМОЛ)",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 104,
+        "Name": "КАТТАКУРГОН ШАХРИ",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 105,
+        "Name": "ТЕМИРЮЛЬСКИЙ",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 106,
+        "Name": "Г.АКТАШ",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 107,
+        "Name": "Г.УРГУТ",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 227,
+        "Name": "ПАЙАРИК ТУМАНИ (ЧЕЛАК)",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 228,
+        "Name": "САМАРКАНД ШАХРИ (ТЕМИРЙУЛ)",
+        "RegionID": 7
+    },
+    {
+        "DistrictID": 229,
+        "Name": "САМАРКАНД ШАХРИ (СИЁБ)",
+        "RegionID": 7
+    }
+]

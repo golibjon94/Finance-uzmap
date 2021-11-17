@@ -1,0 +1,62 @@
+[
+    {
+        "DistrictID": 64,
+        "Name": "НАВОИЙ ШАХРИ",
+        "RegionID": 5
+    },
+    {
+        "DistrictID": 65,
+        "Name": "ЗАРАФШОН ШАХРИ",
+        "RegionID": 5
+    },
+    {
+        "DistrictID": 66,
+        "Name": "Г.УЧКУДУК",
+        "RegionID": 5
+    },
+    {
+        "DistrictID": 67,
+        "Name": "КАРМАНА ТУМАНИ",
+        "RegionID": 5
+    },
+    {
+        "DistrictID": 68,
+        "Name": "КОНИМЕХ ТУМАНИ",
+        "RegionID": 5
+    },
+    {
+        "DistrictID": 69,
+        "Name": "КИЗИЛТЕПА ТУМАНИ",
+        "RegionID": 5
+    },
+    {
+        "DistrictID": 70,
+        "Name": "НАВБАХОР ТУМАНИ",
+        "RegionID": 5
+    },
+    {
+        "DistrictID": 71,
+        "Name": "НУРОТА ТУМАНИ",
+        "RegionID": 5
+    },
+    {
+        "DistrictID": 72,
+        "Name": "ХАТИРЧИ ТУМАНИ",
+        "RegionID": 5
+    },
+    {
+        "DistrictID": 73,
+        "Name": "ТОМДИ ТУМАНИ",
+        "RegionID": 5
+    },
+    {
+        "DistrictID": 74,
+        "Name": "УЧКУДУК ТУМАНИ",
+        "RegionID": 5
+    },
+    {
+        "DistrictID": 224,
+        "Name": "ГОЗГОН ШАХРИ",
+        "RegionID": 5
+    }
+]

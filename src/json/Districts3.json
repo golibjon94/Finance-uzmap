@@ -1,0 +1,67 @@
+[
+    {
+        "DistrictID": 34,
+        "Name": "ЖИЗЗАХ ШАХРИ",
+        "RegionID": 3
+    },
+    {
+        "DistrictID": 35,
+        "Name": "ПАХТАКОР ТУМАНИ",
+        "RegionID": 3
+    },
+    {
+        "DistrictID": 36,
+        "Name": "ГАЛЛАОРОЛ ТУМАНИ",
+        "RegionID": 3
+    },
+    {
+        "DistrictID": 37,
+        "Name": "ДУСТЛИК ТУМАНИ",
+        "RegionID": 3
+    },
+    {
+        "DistrictID": 38,
+        "Name": "МИРЗАЧУЛ ТУМАНИ",
+        "RegionID": 3
+    },
+    {
+        "DistrictID": 39,
+        "Name": "ЗОМИН ТУМАНИ",
+        "RegionID": 3
+    },
+    {
+        "DistrictID": 40,
+        "Name": "БАХМАЛ ТУМАНИ",
+        "RegionID": 3
+    },
+    {
+        "DistrictID": 41,
+        "Name": "ФОРИШ ТУМАНИ",
+        "RegionID": 3
+    },
+    {
+        "DistrictID": 42,
+        "Name": "ЗАФАРОБОД ТУМАНИ",
+        "RegionID": 3
+    },
+    {
+        "DistrictID": 43,
+        "Name": "ШАРОФ РАШИДОВ ТУМАНИ",
+        "RegionID": 3
+    },
+    {
+        "DistrictID": 44,
+        "Name": "АРНАСОЙ ТУМАНИ",
+        "RegionID": 3
+    },
+    {
+        "DistrictID": 45,
+        "Name": "ЗАРБДОР ТУМАНИ",
+        "RegionID": 3
+    },
+    {
+        "DistrictID": 46,
+        "Name": "ЯНГИОБОД ТУМАНИ",
+        "RegionID": 3
+    }
+]

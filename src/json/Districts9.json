@@ -1,0 +1,72 @@
+[
+    {
+        "DistrictID": 123,
+        "Name": "Г.БАХТ",
+        "RegionID": 9
+    },
+    {
+        "DistrictID": 124,
+        "Name": "ГУЛИСТОН ШАХРИ",
+        "RegionID": 9
+    },
+    {
+        "DistrictID": 125,
+        "Name": "ЯНГИЕР ШАХРИ",
+        "RegionID": 9
+    },
+    {
+        "DistrictID": 126,
+        "Name": "ШИРИН ШАХРИ",
+        "RegionID": 9
+    },
+    {
+        "DistrictID": 127,
+        "Name": "Г.СЫРДАРЬЯ",
+        "RegionID": 9
+    },
+    {
+        "DistrictID": 128,
+        "Name": "ОКОЛТИН ТУМАНИ",
+        "RegionID": 9
+    },
+    {
+        "DistrictID": 129,
+        "Name": "БОЁВУТ ТУМАНИ",
+        "RegionID": 9
+    },
+    {
+        "DistrictID": 130,
+        "Name": "ГУЛИСТОН ТУМАНИ",
+        "RegionID": 9
+    },
+    {
+        "DistrictID": 131,
+        "Name": "САРДОБА ТУМАНИ",
+        "RegionID": 9
+    },
+    {
+        "DistrictID": 132,
+        "Name": "СИРДАРЁ ТУМАНИ",
+        "RegionID": 9
+    },
+    {
+        "DistrictID": 133,
+        "Name": "САЙХУНОБОД ТУМАНИ",
+        "RegionID": 9
+    },
+    {
+        "DistrictID": 134,
+        "Name": "ХАВАСТ ТУМАНИ",
+        "RegionID": 9
+    },
+    {
+        "DistrictID": 135,
+        "Name": "МЕХНАТАБАДСКИЙ",
+        "RegionID": 9
+    },
+    {
+        "DistrictID": 136,
+        "Name": "МИРЗАОБОД ТУМАНИ",
+        "RegionID": 9
+    }
+]

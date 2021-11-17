@@ -1,0 +1,72 @@
+[
+    {
+        "DistrictID": 191,
+        "Name": "УРГАНЧ ШАХРИ",
+        "RegionID": 13
+    },
+    {
+        "DistrictID": 192,
+        "Name": "ХИВА ШАХРИ",
+        "RegionID": 13
+    },
+    {
+        "DistrictID": 193,
+        "Name": "ПИТНАК ШАХРИ",
+        "RegionID": 13
+    },
+    {
+        "DistrictID": 194,
+        "Name": "ГУРЛАН ТУМАНИ",
+        "RegionID": 13
+    },
+    {
+        "DistrictID": 195,
+        "Name": "БОГОТ ТУМАНИ",
+        "RegionID": 13
+    },
+    {
+        "DistrictID": 196,
+        "Name": "ХАЗОРАСП ТУМАНИ",
+        "RegionID": 13
+    },
+    {
+        "DistrictID": 197,
+        "Name": "ХОНКА ТУМАНИ",
+        "RegionID": 13
+    },
+    {
+        "DistrictID": 198,
+        "Name": "ЯНГИАРИК ТУМАНИ",
+        "RegionID": 13
+    },
+    {
+        "DistrictID": 199,
+        "Name": "КУШКУПИР ТУМАНИ",
+        "RegionID": 13
+    },
+    {
+        "DistrictID": 200,
+        "Name": "ШОВОТ ТУМАНИ",
+        "RegionID": 13
+    },
+    {
+        "DistrictID": 201,
+        "Name": "УРГАНЧ ТУМАНИ",
+        "RegionID": 13
+    },
+    {
+        "DistrictID": 202,
+        "Name": "ЯНГИБОЗОР ТУМАНИ",
+        "RegionID": 13
+    },
+    {
+        "DistrictID": 203,
+        "Name": "ХИВА ТУМАНИ",
+        "RegionID": 13
+    },
+    {
+        "DistrictID": 225,
+        "Name": "ТУПРОККАЛЪА ТУМАНИ",
+        "RegionID": 13
+    }
+]

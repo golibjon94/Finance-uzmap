@@ -1,0 +1,112 @@
+[
+    {
+        "DistrictID": 149,
+        "Name": "ОХАНГАРОН ШАХРИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 150,
+        "Name": "ОЛМАЛИК ШАХРИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 151,
+        "Name": "АНГРЕН ШАХРИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 152,
+        "Name": "БЕКОБОД ШАХРИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 153,
+        "Name": "ЧИРЧИК ШАХРИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 154,
+        "Name": "ОККУРГОН ТУМАНИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 155,
+        "Name": "ОХАНГАРОН ТУМАНИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 156,
+        "Name": "БУСТОНЛИК ТУМАНИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 157,
+        "Name": "БУКА ТУМАНИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 158,
+        "Name": "ЗАНГИОТА ТУМАНИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 159,
+        "Name": "БЕКОБОД ТУМАНИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 160,
+        "Name": "КИБРАЙ ТУМАНИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 161,
+        "Name": "ПАРКЕНТ ТУМАНИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 162,
+        "Name": "КУЙИЧИРЧИК ТУМАНИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 163,
+        "Name": "ПСКЕНТ ТУМАНИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 164,
+        "Name": "ТОШКЕНТ ТУМАНИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 165,
+        "Name": "УРТАЧИРЧИК ТУМАНИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 166,
+        "Name": "ЧИНОЗ ТУМАНИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 167,
+        "Name": "ЮКОРИЧИРЧИК ТУМАНИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 168,
+        "Name": "ЯНГИЙУЛ ТУМАНИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 169,
+        "Name": "ЯНГИЙУЛ ШАХРИ",
+        "RegionID": 11
+    },
+    {
+        "DistrictID": 170,
+        "Name": "НУРАФШОН ШАХРИ",
+        "RegionID": 11
+    }
+]

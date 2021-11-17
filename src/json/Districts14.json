@@ -1,0 +1,107 @@
+[
+    {
+        "DistrictID": 204,
+        "Name": "НУКУС ШАХРИ",
+        "RegionID": 14
+    },
+    {
+        "DistrictID": 205,
+        "Name": "ТАХИАТОШ ШАХРИ",
+        "RegionID": 14
+    },
+    {
+        "DistrictID": 206,
+        "Name": "КЕГЕЙЛИ ТУМАНИ",
+        "RegionID": 14
+    },
+    {
+        "DistrictID": 207,
+        "Name": "ШУМАНАЙ ТУМАНИ",
+        "RegionID": 14
+    },
+    {
+        "DistrictID": 208,
+        "Name": "КУНГИРОТ ТУМАНИ",
+        "RegionID": 14
+    },
+    {
+        "DistrictID": 209,
+        "Name": "МУЙНОК ТУМАНИ",
+        "RegionID": 14
+    },
+    {
+        "DistrictID": 210,
+        "Name": "АКМАНГИТСКИЙ",
+        "RegionID": 14
+    },
+    {
+        "DistrictID": 211,
+        "Name": "ТАХТАКУПИР ТУМАНИ",
+        "RegionID": 14
+    },
+    {
+        "DistrictID": 212,
+        "Name": "ТУРТКУЛ ТУМАНИ",
+        "RegionID": 14
+    },
+    {
+        "DistrictID": 213,
+        "Name": "ХУЖАЙЛИ ТУМАНИ",
+        "RegionID": 14
+    },
+    {
+        "DistrictID": 214,
+        "Name": "ЧИМБОЙ ТУМАНИ",
+        "RegionID": 14
+    },
+    {
+        "DistrictID": 215,
+        "Name": "БЕРУНИЙ ТУМАНИ",
+        "RegionID": 14
+    },
+    {
+        "DistrictID": 216,
+        "Name": "КОНЛИКУЛ ТУМАНИ",
+        "RegionID": 14
+    },
+    {
+        "DistrictID": 217,
+        "Name": "КОРАУЗАК ТУМАНИ",
+        "RegionID": 14
+    },
+    {
+        "DistrictID": 218,
+        "Name": "ЭЛЛИККАЛА ТУМАНИ",
+        "RegionID": 14
+    },
+    {
+        "DistrictID": 219,
+        "Name": "БОЗАТАУССКИЙ",
+        "RegionID": 14
+    },
+    {
+        "DistrictID": 220,
+        "Name": "МАНГИТСКИЙ",
+        "RegionID": 14
+    },
+    {
+        "DistrictID": 221,
+        "Name": "АМУДАРЁ ТУМАНИ",
+        "RegionID": 14
+    },
+    {
+        "DistrictID": 222,
+        "Name": "НУКУС ТУМАНИ",
+        "RegionID": 14
+    },
+    {
+        "DistrictID": 223,
+        "Name": "ТАХИАТОШ ТУМАНИ",
+        "RegionID": 14
+    },
+    {
+        "DistrictID": 226,
+        "Name": "БУЗАТОВ ТУМАНИ",
+        "RegionID": 14
+    }
+]

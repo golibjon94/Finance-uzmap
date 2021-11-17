@@ -1,0 +1,77 @@
+[
+    {
+        "DistrictID": 108,
+        "Name": "ТЕРМИЗ ШАХРИ",
+        "RegionID": 8
+    },
+    {
+        "DistrictID": 109,
+        "Name": "БОЙСУН ТУМАНИ",
+        "RegionID": 8
+    },
+    {
+        "DistrictID": 110,
+        "Name": "ДЕНОВ ТУМАНИ",
+        "RegionID": 8
+    },
+    {
+        "DistrictID": 111,
+        "Name": "ЖАРКУРГОН ТУМАНИ",
+        "RegionID": 8
+    },
+    {
+        "DistrictID": 112,
+        "Name": "МУЗРАБОТ ТУМАНИ",
+        "RegionID": 8
+    },
+    {
+        "DistrictID": 113,
+        "Name": "ШЕРОБОД ТУМАНИ",
+        "RegionID": 8
+    },
+    {
+        "DistrictID": 114,
+        "Name": "ШУРЧИ ТУМАНИ",
+        "RegionID": 8
+    },
+    {
+        "DistrictID": 115,
+        "Name": "УЗУН ТУМАНИ",
+        "RegionID": 8
+    },
+    {
+        "DistrictID": 116,
+        "Name": "САРИОСИЁ ТУМАНИ",
+        "RegionID": 8
+    },
+    {
+        "DistrictID": 117,
+        "Name": "АНГОР ТУМАНИ",
+        "RegionID": 8
+    },
+    {
+        "DistrictID": 118,
+        "Name": "КИЗИРИК ТУМАНИ",
+        "RegionID": 8
+    },
+    {
+        "DistrictID": 119,
+        "Name": "КУМКУРГОН ТУМАНИ",
+        "RegionID": 8
+    },
+    {
+        "DistrictID": 120,
+        "Name": "ТЕРМИЗ ТУМАНИ",
+        "RegionID": 8
+    },
+    {
+        "DistrictID": 121,
+        "Name": "ОЛТИНСОЙ ТУМАНИ",
+        "RegionID": 8
+    },
+    {
+        "DistrictID": 122,
+        "Name": "БАНДИХОН ТУМАНИ",
+        "RegionID": 8
+    }
+]

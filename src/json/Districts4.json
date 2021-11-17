@@ -1,0 +1,87 @@
+[
+    {
+        "DistrictID": 47,
+        "Name": "КАРШИ ШАХРИ",
+        "RegionID": 4
+    },
+    {
+        "DistrictID": 48,
+        "Name": "КАРШИ ТУМАНИ",
+        "RegionID": 4
+    },
+    {
+        "DistrictID": 49,
+        "Name": "ГУЗОР ТУМАНИ",
+        "RegionID": 4
+    },
+    {
+        "DistrictID": 50,
+        "Name": "ДЕХКОНОБОД ТУМАНИ",
+        "RegionID": 4
+    },
+    {
+        "DistrictID": 51,
+        "Name": "КАМАШИ ТУМАНИ",
+        "RegionID": 4
+    },
+    {
+        "DistrictID": 52,
+        "Name": "КОСОН ТУМАНИ",
+        "RegionID": 4
+    },
+    {
+        "DistrictID": 53,
+        "Name": "ШАХРИСАБЗ ШАХРИ",
+        "RegionID": 4
+    },
+    {
+        "DistrictID": 54,
+        "Name": "ЧИРОКЧИ ТУМАНИ",
+        "RegionID": 4
+    },
+    {
+        "DistrictID": 55,
+        "Name": "ЯККАБОГ ТУМАНИ",
+        "RegionID": 4
+    },
+    {
+        "DistrictID": 56,
+        "Name": "КИТОБ ТУМАНИ",
+        "RegionID": 4
+    },
+    {
+        "DistrictID": 57,
+        "Name": "КАСБИ ТУМАНИ",
+        "RegionID": 4
+    },
+    {
+        "DistrictID": 58,
+        "Name": "НИШОН ТУМАНИ",
+        "RegionID": 4
+    },
+    {
+        "DistrictID": 59,
+        "Name": "У.ЮСУПОВСКИЙ",
+        "RegionID": 4
+    },
+    {
+        "DistrictID": 60,
+        "Name": "МУБОРАК ТУМАНИ",
+        "RegionID": 4
+    },
+    {
+        "DistrictID": 61,
+        "Name": "БАХОРИСТАНСКИЙ",
+        "RegionID": 4
+    },
+    {
+        "DistrictID": 62,
+        "Name": "ШАХРИСАБЗ ТУМАНИ",
+        "RegionID": 4
+    },
+    {
+        "DistrictID": 63,
+        "Name": "МИРИШКОР ТУМАНИ",
+        "RegionID": 4
+    }
+]
