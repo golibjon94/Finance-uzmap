@@ -4,7 +4,7 @@ import AccountCircleIcon from "@material-ui/icons/AccountCircle";
 import MenuIcon from "@material-ui/icons/Menu";
 import SearchIcon from "@material-ui/icons/Search";
 import { Link } from "react-router-dom";
-
+import Arizalar from "../Ariza/ariza";
 export default function Header() {
 
   return (
@@ -20,7 +20,8 @@ export default function Header() {
           <option>RUS</option>
           <option>ENG</option>
         </select>
-        <Link style={{textDecoration:"none"}} to="/"><span>Shikoyatlar</span></Link>
+        {/* <Link style={{textDecoration:"none"}} to="/"><span>Shikoyatlar</span></Link> */}
+          <Arizalar/>
         <form>
           <input type="text" placeholder="qidirish"/>
             <SearchIcon style={{marginTop:"4px",cursor:"pointer"}}/>
