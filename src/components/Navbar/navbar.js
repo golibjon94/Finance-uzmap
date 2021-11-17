@@ -8,7 +8,7 @@ export default function Navbar() {
 <img src={MoliyaLogo} alt="moliya" />
       <DropdownButton 
       id="dropdown-basic-button"
-      title="Moliya Portali">
+      title="Dropdown 1">
         <Dropdown.Item href="#/action-1">
           Savol-javob
         </Dropdown.Item>
@@ -21,7 +21,7 @@ export default function Navbar() {
       </DropdownButton>
       <DropdownButton 
       id="dropdown-basic-button"
-      title="Moliya Portali">
+      title="Dropdown 2">
         <Dropdown.Item href="#/action-1">
           Savol-javob
         </Dropdown.Item>
@@ -34,7 +34,7 @@ export default function Navbar() {
       </DropdownButton>
       <DropdownButton 
       id="dropdown-basic-button"
-      title="Moliya Portali">
+      title="Dropdown 3">
         <Dropdown.Item href="#/action-1">
           Savol-javob
         </Dropdown.Item>
@@ -47,7 +47,7 @@ export default function Navbar() {
       </DropdownButton>
       <DropdownButton 
       id="dropdown-basic-button"
-      title="Moliya Portali">
+      title="Dropdown 4">
         <Dropdown.Item href="#/action-1">
           Savol-javob
         </Dropdown.Item>
