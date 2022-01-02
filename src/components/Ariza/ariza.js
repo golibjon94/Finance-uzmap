@@ -29,6 +29,25 @@ function OffCanvasExample({ name, ...props }) {
               <br/>
               <label>Tel raqam:</label>
               <input type="text" placeholder="tel raqam kiriting"/>
+              <br/>
+              <select placeholder='Viloyatlar' className="regions">
+                  <option value="audi">Qoraqalpog'iston</option>
+                  <option value="volvo">Andijon</option>
+                  <option value="saab">Buxoro</option>
+                  <option value="saab">Farg'ona</option>
+                  <option value="opel">Jizzax</option>
+                  <option value="audi">Navoiy</option>
+                  <option value="audi">Namangan</option>
+                  <option value="audi">Qashqadaryo</option>
+                  <option value="audi">Samarqand</option>
+                  <option value="audi">Surxondaryo</option>
+                  <option value="audi">Sirdaryo</option>
+                  <option value="audi">Xorazm</option>
+                  <option value="audi">Toshkent</option>
+                  <option value="audi">Toshkent shahri</option>
+                  
+              </select>
+              <br/>
            <label>Arizangiz mazmunini yozing:</label>
             <textarea style={{margin:"5px 10px",padding:"10px"}} cols="40" rows="8"></textarea>
             <button>Yuborish</button>
